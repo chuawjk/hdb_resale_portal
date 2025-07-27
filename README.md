@@ -1,5 +1,6 @@
 # Impact of HDB Resale Portal on Agent Transactions
-This repository contains the following:
+This respository contains an analysis and writeup investigating the impact of the HDB Resale Portal
+on the activities of property agents.
 ```
 ├── data
 │   └── data_sources.txt    # links to data sources
